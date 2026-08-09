@@ -67,6 +67,7 @@ The dashboard includes:
 ## 📷 Dashboard Preview
 
 https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%201.png
+https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%202.png
 
 ## 📌 Conclusion
 
