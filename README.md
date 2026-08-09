@@ -70,6 +70,8 @@ https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%201.
 https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%202.png
 https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%203.png
 https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%204.png
+https://github.com/fathimarifa1845/ola-ride-analytics-powerbi/blob/main/ola%205.png
+
 ## 📌 Conclusion
 
 The dashboard provides a comprehensive view of ride-hailing operations by combining ride trends, revenue analysis, customer behavior, and service performance. The insights support better operational planning, customer experience improvement, and data-driven business decisions.
